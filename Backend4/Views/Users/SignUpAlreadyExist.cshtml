@@ -1,0 +1,41 @@
+﻿@model UserCredential
+
+@{
+    ViewData["Title"] = "SignUpAlreadyExist";
+}
+
+<h2>Sign Up Already Exist</h2>
+<p>User with same profile already exist, Are you sure you want to sign up?</p>
+
+<form class="form-horizontal">
+    <div class="form-group">
+        <label class="col-md-2 control-label">First name</label>
+        <div class="col-md-10">
+            <p class="form-control-static">@Model.FirstName</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-2 control-label">@Model.LastName</label>
+        <div class="col-md-10">
+            <p class="form-control-static">Smith</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-2 control-label">Birthday</label>
+        <div class="col-md-10 form-inline">
+            <p class="form-control-static">@Model.Month @Model.Day, @Model.Year</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-2 control-label">Gender</label>
+        <div class="col-md-10">
+            <p class="form-control-static">@Model.Gender</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-10 col-md-offset-2">
+            <a class="btn btn-primary" asp-action="SignUpCredentials" asp-route-fullName="@Model.FirstName @Model.LastName">Sign Up Anyway</a>
+        </div>
+    </div>
+</form>
+

@@ -1,0 +1,17 @@
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/bin/Debug/netcoreapp2.0/bower.json
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/bin/Debug/netcoreapp2.0/bundleconfig.json
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/bin/Debug/netcoreapp2.0/Backend4.deps.json
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/bin/Debug/netcoreapp2.0/Backend4.runtimeconfig.json
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/bin/Debug/netcoreapp2.0/Backend4.runtimeconfig.dev.json
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/bin/Debug/netcoreapp2.0/Backend4.dll
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/bin/Debug/netcoreapp2.0/Backend4.pdb
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/obj/Debug/netcoreapp2.0/Backend4.csprojAssemblyReference.cache
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/obj/Debug/netcoreapp2.0/Backend4.AssemblyInfoInputs.cache
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/obj/Debug/netcoreapp2.0/Backend4.AssemblyInfo.cs
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/obj/Debug/netcoreapp2.0/Backend4.csproj.CoreCompileInputs.cache
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/obj/Debug/netcoreapp2.0/Backend4.dll
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/obj/Debug/netcoreapp2.0/Backend4.pdb
+/Users/mohameddesouky/Downloads/WebInt-Backend4-master/Backend4/obj/Debug/netcoreapp2.0/Backend4.genruntimeconfig.cache
